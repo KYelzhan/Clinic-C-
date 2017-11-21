@@ -1,0 +1,13 @@
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Debug\Clinic.exe.config
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Debug\Clinic.exe
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Debug\Clinic.pdb
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Debug\MetroFramework.Design.dll
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Debug\MetroFramework.dll
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.Form1.resources
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.Properties.Resources.resources
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.csproj.GenerateResource.Cache
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.exe
+C:\Users\Yelzhan\Documents\Visual Studio 2017\Projects\Clinic\Clinic\obj\Debug\Clinic.pdb
+C:\Users\Yelzhan\documents\visual studio 2017\Projects\Clinic\Clinic\bin\Debug\Database.mdf
+C:\Users\Yelzhan\documents\visual studio 2017\Projects\Clinic\Clinic\bin\Debug\Database_log.ldf
